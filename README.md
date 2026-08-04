@@ -10,11 +10,14 @@ My goal is to develop intelligent and trustworthy cybersecurity solutions while 
 
 ## 🎓 Education
 
-- BSc (Hons) Cybersecurity & Networking Engineering
-  - University of Central Lancashire (UCLan), United Kingdom
+🎓 **Bachelor of Science (BSc Hons)**  
+**Cyber Security & Networking Engineering**  
+University of Central Lancashire (UCLan), United Kingdom
 
-- Pearson BTEC Higher National Diploma (HND) in Computing (Intelligent Systems)
-  - Pearson Education, United Kingdom
+🎓 **Pearson BTEC Higher National Diploma (HND)**  
+**Computing (Intelligent Systems)**  
+Awarded by Pearson BTEC, United Kingdom  
+Studied at ABC Horizon Campus, Istanbul, Türkiye
 
 ---
 
