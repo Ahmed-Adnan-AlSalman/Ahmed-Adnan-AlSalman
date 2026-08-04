@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Adnan Al-Salman 👋
 
-## Cybersecurity & Networking Engineer | AI & Explainable AI (XAI) Researcher
+Cybersecurity & Networking Engineer | AI & Explainable AI Researcher
 
 I am a Cybersecurity & Networking Engineering graduate with a strong interest in Artificial Intelligence, Explainable AI (XAI), Machine Learning, and Network Security.
 
