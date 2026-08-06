@@ -37,11 +37,11 @@ Studied at ABC Horizon Campus, Istanbul, Türkiye
 ### ⭐ TrustXAI
 Explainable AI Framework for Multiclass Network Intrusion Detection using Random Forest, XGBoost, SHAP and LIME.
 
-### 🩺 Disease Prediction Application
-Machine Learning based disease prediction system.
+### 🩺 Disease Prediction System
+Machine Learning-based application for disease prediction using Python and Scikit-learn.
 
-### ☁ Green Cloud Computing Research
-Research on Green Cloud Computing and Carbon Emission Reduction.
+### 👥 HR Management System
+Desktop HR Management System built with Python, Tkinter, ttkbootstrap, SQLite, and Pandas. Features employee management, KPI tracking, salary management, search, and data export.
 
 ---
 
