@@ -28,7 +28,7 @@ Passionate about building intelligent, explainable, and trustworthy AI solutions
 
 I am a Cybersecurity & Networking Engineering graduate with a strong interest in Artificial Intelligence, Explainable AI (XAI), Machine Learning, and Network Security.
 
-My research focuses on developing intelligent and trustworthy cybersecurity solutions through Explainable AI, Intrusion Detection Systems, and Machine Learning.
+My research focuses on developing intelligent, explainable, and trustworthy cybersecurity solutions through Explainable AI, Intrusion Detection Systems, and Machine Learning.
 
 ---
 
@@ -36,14 +36,6 @@ My research focuses on developing intelligent and trustworthy cybersecurity solu
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Adnan-AlSalman&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -70,21 +62,27 @@ My research focuses on developing intelligent and trustworthy cybersecurity solu
 
 # 🚀 Featured Projects
 
-<p align="center">
+## 🔹 TrustXAI – Explainable Network Intrusion Detection
 
-<a href="https://github.com/Ahmed-Adnan-AlSalman/TrustXAI-Explainable-Network-Intrusion-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Adnan-AlSalman&repo=TrustXAI-Explainable-Network-Intrusion-Detection&theme=tokyonight&hide_border=true"/>
-</a>
+An Explainable AI framework for multiclass Network Intrusion Detection using **Random Forest**, **XGBoost**, **SHAP**, and **LIME**.
 
-<a href="https://github.com/Ahmed-Adnan-AlSalman/Disease-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Adnan-AlSalman&repo=Disease-Prediction-System&theme=tokyonight&hide_border=true"/>
-</a>
+🔗 https://github.com/Ahmed-Adnan-AlSalman/TrustXAI-Explainable-Network-Intrusion-Detection
 
-<a href="https://github.com/Ahmed-Adnan-AlSalman/HR-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Adnan-AlSalman&repo=HR-Management-System&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-</p>
+## 🔹 Disease Prediction System
+
+AI-powered Disease Prediction System using **Decision Tree**, **Random Forest**, and **Naive Bayes** with an interactive Python GUI.
+
+🔗 https://github.com/Ahmed-Adnan-AlSalman/Disease-Prediction-System
+
+---
+
+## 🔹 HR Management System
+
+Desktop HR Management System built with **Python**, **Tkinter**, **SQLite**, and **Pandas**.
+
+🔗 https://github.com/Ahmed-Adnan-AlSalman/HR-Management-System
 
 ---
 
