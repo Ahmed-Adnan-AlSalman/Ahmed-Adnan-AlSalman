@@ -3,28 +3,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Researcher;Explainable+AI+(XAI);Machine+Learning+Enthusiast;Python+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Researcher;Explainable+AI+(XAI);Machine+Learning+Engineer;Network+Security+Enthusiast" alt="Typing Animation" />
 </p>
 
-# 👋 Hi there, I'm Ahmed Adnan Al-Salman
+<h1 align="center">Hi 👋, I'm Ahmed Adnan Al-Salman</h1>
 
-**Cybersecurity & Networking Engineer | AI & Explainable AI Researcher**
-
-I am a Cybersecurity & Networking Engineering graduate with a strong interest in Artificial Intelligence, Explainable AI (XAI), Machine Learning, and Network Security.
-
-My goal is to develop intelligent and trustworthy cybersecurity solutions while continuously expanding my research and technical expertise.
+<p align="center">
+<b>Cybersecurity & Networking Engineer</b> •
+<b>AI Researcher</b> •
+<b>Explainable AI (XAI)</b>
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+## 👨‍💻 About Me
+
+I am a **Cybersecurity & Networking Engineering graduate** with a strong interest in **Artificial Intelligence**, **Explainable AI (XAI)**, **Machine Learning**, and **Network Security**.
+
+I enjoy building intelligent cybersecurity solutions that are both **accurate** and **transparent**, while continuously improving my research and technical expertise.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adnan-AlSalman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adnan-AlSalman&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adnan-AlSalman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -33,11 +40,11 @@ My goal is to develop intelligent and trustworthy cybersecurity solutions while 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,docker,mongodb,sqlite,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,docker,mongodb,sqlite,vscode"/>
 
 </p>
 
-**AI & Cybersecurity**
+### AI & Cybersecurity
 
 - Machine Learning
 - Explainable AI (XAI)
@@ -47,30 +54,46 @@ My goal is to develop intelligent and trustworthy cybersecurity solutions while 
 - LIME
 - Intrusion Detection Systems
 - Network Security
+- Threat Detection
+- Python Automation
 
 ---
 
-# 🎓 Education
+# 🚀 Featured Projects
 
-### 🎓 Bachelor of Science (BSc Hons)
+## ⭐ TrustXAI – Explainable Network Intrusion Detection
 
-**Cyber Security & Networking Engineering**
+Explainable AI framework for multiclass network intrusion detection using:
 
-University of Central Lancashire (UCLan), United Kingdom
+- Random Forest
+- XGBoost
+- SHAP
+- LIME
 
-### 🎓 Pearson BTEC Higher National Diploma (HND)
+---
 
-**Computing (Intelligent Systems)**
+## 🩺 Disease Prediction System
 
-Awarded by Pearson BTEC, United Kingdom
+Machine Learning desktop application for disease prediction using Python and Scikit-learn.
 
-Studied at ABC Horizon Campus, Istanbul, Türkiye
+---
+
+## 👥 HR Management System
+
+Desktop HR Management System developed using:
+
+- Python
+- Tkinter
+- ttkbootstrap
+- SQLite
+- Pandas
 
 ---
 
 # 🔬 Research Interests
 
 - Explainable Artificial Intelligence (XAI)
+- Artificial Intelligence
 - Machine Learning
 - Network Intrusion Detection
 - Cybersecurity
@@ -79,23 +102,21 @@ Studied at ABC Horizon Campus, Istanbul, Türkiye
 
 ---
 
-# 🚀 Featured Projects
+# 🎓 Education
 
-## ⭐ TrustXAI
+### 🎓 Bachelor of Science (BSc Hons)
 
-Explainable AI Framework for Multiclass Network Intrusion Detection using Random Forest, XGBoost, SHAP and LIME.
+Cyber Security & Networking Engineering
 
----
+University of Central Lancashire (UCLan), United Kingdom
 
-## 🩺 Disease Prediction System
+### 🎓 Pearson BTEC Higher National Diploma (HND)
 
-Machine Learning application for disease prediction using Python and Scikit-learn.
+Computing (Intelligent Systems)
 
----
+Awarded by Pearson BTEC, United Kingdom
 
-## 👥 HR Management System
-
-Desktop HR Management System built with Python, Tkinter, ttkbootstrap, SQLite and Pandas.
+Studied at ABC Horizon Campus, Istanbul, Türkiye
 
 ---
 
@@ -116,4 +137,12 @@ Desktop HR Management System built with Python, Tkinter, ttkbootstrap, SQLite an
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/ahmedadnan93
+www.linkedin.com/in/ahmedadnan93
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Adnan-AlSalman&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
