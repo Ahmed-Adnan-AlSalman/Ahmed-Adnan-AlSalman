@@ -1,6 +1,11 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner">
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Researcher;Explainable+AI+(XAI);Machine+Learning+Enthusiast;Python+Developer" />
+  </a>
+</p>
 # Hi there, I'm Ahmed Adnan Al-Salman 👋
 
 Cybersecurity & Networking Engineer | AI & Explainable AI Researcher
@@ -8,7 +13,18 @@ Cybersecurity & Networking Engineer | AI & Explainable AI Researcher
 I am a Cybersecurity & Networking Engineering graduate with a strong interest in Artificial Intelligence, Explainable AI (XAI), Machine Learning, and Network Security.
 
 My goal is to develop intelligent and trustworthy cybersecurity solutions while continuously expanding my research and technical expertise.
+## 📈 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adnan-AlSalman&show_icons=true&theme=tokyonight&hide_border=true" />
 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adnan-AlSalman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🎓 Education
