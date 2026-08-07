@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
 # Hi there, I'm Ahmed Adnan Al-Salman 👋
 
 Cybersecurity & Networking Engineer | AI & Explainable AI Researcher
