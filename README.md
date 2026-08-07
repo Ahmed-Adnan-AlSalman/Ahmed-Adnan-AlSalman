@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="banner.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Researcher;Explainable+AI+(XAI);Machine+Learning+Engineer;Network+Security+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Researcher;Explainable+AI+(XAI);Machine+Learning+Engineer;Network+Security+Enthusiast" alt="Typing Animation"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Adnan Al-Salman</h1>
 
 <p align="center">
 <b>Cybersecurity & Networking Engineer</b> •
-<b>AI Researcher</b> •
+<b>Artificial Intelligence Researcher</b> •
 <b>Explainable AI (XAI)</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Cybersecurity & Networking Engineering graduate** with a strong interest in **Artificial Intelligence**, **Explainable AI (XAI)**, **Machine Learning**, and **Network Security**.
+I am a Cybersecurity & Networking Engineering graduate passionate about **Artificial Intelligence**, **Explainable AI (XAI)**, **Machine Learning**, and **Cybersecurity**.
 
-I enjoy building intelligent cybersecurity solutions that are both **accurate** and **transparent**, while continuously improving my research and technical expertise.
+My research focuses on developing intelligent and trustworthy security solutions using modern AI techniques while improving transparency and interpretability in machine learning models.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adnan-AlSalman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Adnan-AlSalman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -39,12 +35,10 @@ I enjoy building intelligent cybersecurity solutions that are both **accurate** 
 # 💻 Technical Skills
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,docker,mongodb,sqlite,vscode"/>
-
 </p>
 
-### AI & Cybersecurity
+### Artificial Intelligence
 
 - Machine Learning
 - Explainable AI (XAI)
@@ -52,10 +46,20 @@ I enjoy building intelligent cybersecurity solutions that are both **accurate** 
 - XGBoost
 - SHAP
 - LIME
-- Intrusion Detection Systems
+
+### Cybersecurity
+
 - Network Security
+- Intrusion Detection Systems
 - Threat Detection
-- Python Automation
+- Secure Network Design
+
+### Programming
+
+- Python
+- SQLite
+- MongoDB
+- Git & GitHub
 
 ---
 
@@ -63,12 +67,19 @@ I enjoy building intelligent cybersecurity solutions that are both **accurate** 
 
 ## ⭐ TrustXAI – Explainable Network Intrusion Detection
 
-Explainable AI framework for multiclass network intrusion detection using:
+An Explainable AI framework for multiclass Network Intrusion Detection using:
 
 - Random Forest
 - XGBoost
 - SHAP
 - LIME
+
+**Key Features**
+
+- Explainable predictions
+- Feature importance analysis
+- Real-world cybersecurity dataset
+- Comparative ML evaluation
 
 ---
 
@@ -80,13 +91,21 @@ Machine Learning desktop application for disease prediction using Python and Sci
 
 ## 👥 HR Management System
 
-Desktop HR Management System developed using:
+Desktop HR Management System developed with:
 
 - Python
 - Tkinter
 - ttkbootstrap
 - SQLite
 - Pandas
+
+Features include:
+
+- Employee Management
+- KPI Tracking
+- Salary Management
+- Search & Filtering
+- Data Export
 
 ---
 
@@ -95,28 +114,30 @@ Desktop HR Management System developed using:
 - Explainable Artificial Intelligence (XAI)
 - Artificial Intelligence
 - Machine Learning
-- Network Intrusion Detection
 - Cybersecurity
-- Cloud Computing
-- Network Security
+- Network Intrusion Detection
+- Cloud Security
+- Responsible AI
 
 ---
 
 # 🎓 Education
 
-### 🎓 Bachelor of Science (BSc Hons)
+### Bachelor of Science (BSc Hons)
 
-Cyber Security & Networking Engineering
+**Cyber Security & Networking Engineering**
 
 University of Central Lancashire (UCLan), United Kingdom
 
-### 🎓 Pearson BTEC Higher National Diploma (HND)
+---
 
-Computing (Intelligent Systems)
+### Pearson BTEC Higher National Diploma (HND)
+
+**Computing (Intelligent Systems)**
 
 Awarded by Pearson BTEC, United Kingdom
 
-Studied at ABC Horizon Campus, Istanbul, Türkiye
+ABC Horizon Campus, Istanbul, Türkiye
 
 ---
 
@@ -137,12 +158,10 @@ Studied at ABC Horizon Campus, Istanbul, Türkiye
 
 💼 LinkedIn
 
-www.linkedin.com/in/ahmedadnan93
+**www.linkedin.com/in/ahmedadnan93**
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ahmed-Adnan-AlSalman&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Adnan-AlSalman&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
